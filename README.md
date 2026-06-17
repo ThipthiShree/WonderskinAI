@@ -1,4 +1,4 @@
-```markdown
+
 # ✨ WonderSkin — AI Skincare Intelligence
 
 WonderSkin is an AI-powered skincare analysis platform built for Indian consumers. It analyzes products, compares them head-to-head, explains ingredients, builds personalized routines, and lets users browse top Indian skincare brands — all powered by Groq's LLM and vision models.
