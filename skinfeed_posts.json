@@ -1,0 +1,58 @@
+[
+  {
+    "user": "thipthi",
+    "product": "Minimalist",
+    "review": "nice",
+    "likes": 0,
+    "liked": false
+  },
+  {
+    "user": "thipthi",
+    "product": "cerave moisturizer",
+    "review": "It feels lighter on skin",
+    "likes": 0,
+    "liked": false
+  },
+  {
+    "user": "usharani",
+    "product": "Dot and key",
+    "review": "I used it for 2 weeks...good result",
+    "likes": 0,
+    "liked": false
+  },
+  {
+    "user": "thipthi",
+    "product": "Minimalist",
+    "review": "The bestestt brand ever",
+    "likes": 1,
+    "liked": true
+  },
+  {
+    "user": "priya_glows",
+    "product": "Minimalist Niacinamide",
+    "review": "Cleared my acne in 3 weeks! Skin feels so smooth now \ud83d\ude4c",
+    "likes": 124,
+    "liked": false
+  },
+  {
+    "user": "skincare.tamil",
+    "product": "CeraVe Moisturizing Cream",
+    "review": "Best moisturizer for dry skin. No fragrance, no irritation \u2764\ufe0f",
+    "likes": 98,
+    "liked": false
+  },
+  {
+    "user": "glow.india",
+    "product": "The Ordinary Niacinamide",
+    "review": "Affordable and effective! My pores look so much smaller",
+    "likes": 210,
+    "liked": false
+  },
+  {
+    "user": "cleanbeauty.in",
+    "product": "Dot & Key Watermelon Gel",
+    "review": "Perfect for oily skin summers! Lightweight and refreshing \ud83d\udca7",
+    "likes": 67,
+    "liked": false
+  }
+]
